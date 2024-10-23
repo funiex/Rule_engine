@@ -8,10 +8,11 @@ This project implements a simple 3-tier rule engine application using Flask, SQL
 
 1. Install the required dependencies:
    ```bash
-   pip install flask sqlalchemy
+   pip install flask sqlalchemy requests 
+   
 
 Run the Flask application:
-bash
+```bash
 python main.py
 
 **COMPONENTS**
